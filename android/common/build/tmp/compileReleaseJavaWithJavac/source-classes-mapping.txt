@@ -1,0 +1,182 @@
+com/marianhello/utils/TextUtils.java
+ com.marianhello.utils.TextUtils
+com/marianhello/bgloc/headless/TaskRunner.java
+ com.marianhello.bgloc.headless.TaskRunner
+com/marianhello/bgloc/headless/AbstractTaskRunner.java
+ com.marianhello.bgloc.headless.AbstractTaskRunner
+com/marianhello/bgloc/service/LocationServiceInfo.java
+ com.marianhello.bgloc.service.LocationServiceInfo
+com/marianhello/bgloc/service/LocationServiceProxy.java
+ com.marianhello.bgloc.service.LocationServiceProxy
+com/marianhello/bgloc/data/provider/LocationContentProvider.java
+ com.marianhello.bgloc.data.provider.LocationContentProvider
+com/marianhello/logging/UncaughtExceptionLogger.java
+ com.marianhello.logging.UncaughtExceptionLogger
+com/marianhello/bgloc/data/LocationTemplateFactory.java
+ com.marianhello.bgloc.data.LocationTemplateFactory
+com/marianhello/bgloc/PluginDelegate.java
+ com.marianhello.bgloc.PluginDelegate
+com/marianhello/bgloc/data/BackgroundActivity.java
+ com.marianhello.bgloc.data.BackgroundActivity
+ com.marianhello.bgloc.data.BackgroundActivity$1
+com/marianhello/bgloc/data/provider/ContentProviderLocationDAO.java
+ com.marianhello.bgloc.data.provider.ContentProviderLocationDAO
+com/marianhello/bgloc/data/sqlite/SQLiteConfigurationDAO.java
+ com.marianhello.bgloc.data.sqlite.SQLiteConfigurationDAO
+com/marianhello/bgloc/sync/AccountHelper.java
+ com.marianhello.bgloc.sync.AccountHelper
+com/marianhello/utils/ToneGenerator.java
+ com.marianhello.utils.ToneGenerator
+ com.marianhello.utils.ToneGenerator$1
+ com.marianhello.utils.ToneGenerator$2
+ com.marianhello.utils.ToneGenerator$Tone
+com/marianhello/bgloc/sync/SyncAdapter.java
+ com.marianhello.bgloc.sync.SyncAdapter
+ com.marianhello.bgloc.sync.SyncAdapter$1
+com/marianhello/bgloc/headless/LocationTask.java
+ com.marianhello.bgloc.headless.LocationTask
+com/marianhello/bgloc/data/ConfigurationDAO.java
+ com.marianhello.bgloc.data.ConfigurationDAO
+com/marianhello/bgloc/provider/LocationProvider.java
+ com.marianhello.bgloc.provider.LocationProvider
+com/marianhello/bgloc/service/LocationServiceIntentBuilder.java
+ com.marianhello.bgloc.service.CommandId
+ com.marianhello.bgloc.service.LocationServiceIntentBuilder
+ com.marianhello.bgloc.service.LocationServiceIntentBuilder$Command
+com/marianhello/bgloc/data/sqlite/SQLiteLocationDAO.java
+ com.marianhello.bgloc.data.sqlite.SQLiteLocationDAO
+com/marianhello/bgloc/PostLocationTask.java
+ com.marianhello.bgloc.PostLocationTask
+ com.marianhello.bgloc.PostLocationTask$1
+ com.marianhello.bgloc.PostLocationTask$2
+ com.marianhello.bgloc.PostLocationTask$PostLocationTaskListener
+com/marianhello/bgloc/PluginException.java
+ com.marianhello.bgloc.PluginException
+com/marianhello/bgloc/data/HashMapLocationTemplate.java
+ com.marianhello.bgloc.data.HashMapLocationTemplate
+com/marianhello/bgloc/sync/Authenticator.java
+ com.marianhello.bgloc.sync.Authenticator
+ru/andremoniy/sqlbuilder/SqlStatement.java
+ ru.andremoniy.sqlbuilder.SqlStatement
+com/marianhello/bgloc/data/sqlite/SQLiteOpenHelper.java
+ com.marianhello.bgloc.data.sqlite.SQLiteOpenHelper
+com/marianhello/logging/DBLogReader.java
+ com.marianhello.logging.DBLogReader
+ com.marianhello.logging.DBLogReader$QueryBuilder
+com/marianhello/bgloc/BackgroundGeolocationFacade.java
+ com.marianhello.bgloc.BackgroundGeolocationFacade
+ com.marianhello.bgloc.BackgroundGeolocationFacade$1
+ com.marianhello.bgloc.BackgroundGeolocationFacade$2
+ com.marianhello.bgloc.BackgroundGeolocationFacade$3
+com/marianhello/bgloc/provider/ProviderDelegate.java
+ com.marianhello.bgloc.provider.ProviderDelegate
+com/marianhello/bgloc/BootCompletedReceiver.java
+ com.marianhello.bgloc.BootCompletedReceiver
+com/marianhello/bgloc/sync/SyncService.java
+ com.marianhello.bgloc.sync.SyncService
+com/marianhello/bgloc/headless/JsCallback.java
+ com.marianhello.bgloc.headless.JsCallback
+ru/andremoniy/utils/TextUtils.java
+ ru.andremoniy.utils.TextUtils
+com/marianhello/utils/CloneHelper.java
+ com.marianhello.utils.CloneHelper
+com/marianhello/bgloc/ResourceResolver.java
+ com.marianhello.bgloc.ResourceResolver
+com/marianhello/bgloc/Config.java
+ com.marianhello.bgloc.Config
+ com.marianhello.bgloc.Config$1
+com/marianhello/bgloc/headless/ActivityTask.java
+ com.marianhello.bgloc.headless.ActivityTask
+com/marianhello/bgloc/data/AbstractLocationTemplate.java
+ com.marianhello.bgloc.data.AbstractLocationTemplate
+ com.marianhello.bgloc.data.AbstractLocationTemplate$LocationMapper
+com/marianhello/bgloc/data/LocationTemplate.java
+ com.marianhello.bgloc.data.LocationTemplate
+com/marianhello/bgloc/HttpPostService.java
+ com.marianhello.bgloc.HttpPostService
+ com.marianhello.bgloc.HttpPostService$UploadingProgressListener
+ru/andremoniy/sqlbuilder/SqlExpression.java
+ ru.andremoniy.sqlbuilder.SqlExpression
+com/marianhello/bgloc/data/sqlite/SQLiteLocationContract.java
+ com.marianhello.bgloc.data.sqlite.SQLiteLocationContract
+ com.marianhello.bgloc.data.sqlite.SQLiteLocationContract$LocationEntry
+com/marianhello/bgloc/data/BackgroundLocation.java
+ com.marianhello.bgloc.data.BackgroundLocation
+ com.marianhello.bgloc.data.BackgroundLocation$1
+com/marianhello/bgloc/sync/AuthenticatorService.java
+ com.marianhello.bgloc.sync.AuthenticatorService
+com/marianhello/bgloc/headless/Task.java
+ com.marianhello.bgloc.headless.Task
+com/marianhello/bgloc/provider/ActivityRecognitionLocationProvider.java
+ com.marianhello.bgloc.provider.ActivityRecognitionLocationProvider
+ com.marianhello.bgloc.provider.ActivityRecognitionLocationProvider$1
+com/marianhello/bgloc/data/ArrayListLocationTemplate.java
+ com.marianhello.bgloc.data.ArrayListLocationTemplate
+com/marianhello/bgloc/provider/LocationProviderFactory.java
+ com.marianhello.bgloc.provider.LocationProviderFactory
+ru/andremoniy/sqlbuilder/SqlSelectStatement.java
+ ru.andremoniy.sqlbuilder.SqlSelectStatement
+com/marianhello/bgloc/headless/StationaryTask.java
+ com.marianhello.bgloc.headless.StationaryTask
+com/marianhello/bgloc/LocationManager.java
+ com.marianhello.bgloc.LocationManager
+ com.marianhello.bgloc.LocationManager$1
+ com.marianhello.bgloc.LocationManager$CurrentLocationListener
+ com.marianhello.bgloc.LocationManager$PermissionDeniedException
+com/marianhello/bgloc/service/LocationServiceInfoImpl.java
+ com.marianhello.bgloc.service.LocationServiceInfoImpl
+com/marianhello/logging/LoggerManager.java
+ com.marianhello.logging.LoggerManager
+com/marianhello/bgloc/sync/BatchManager.java
+ com.marianhello.bgloc.sync.BatchManager
+ com.marianhello.bgloc.sync.BatchManager$LocationTemplateWriter
+ com.marianhello.bgloc.sync.BatchManager$LocationWriter
+com/marianhello/bgloc/data/sqlite/SQLiteConfigurationContract.java
+ com.marianhello.bgloc.data.sqlite.SQLiteConfigurationContract
+ com.marianhello.bgloc.data.sqlite.SQLiteConfigurationContract$ConfigurationEntry
+org/chromium/content/browser/ThreadUtils.java
+ org.chromium.content.browser.ThreadUtils
+com/marianhello/utils/Convert.java
+ com.marianhello.utils.Convert
+com/marianhello/bgloc/service/LocationService.java
+ com.marianhello.bgloc.service.LocationService
+com/marianhello/backgroundgeolocation/BuildConfig.java
+ com.marianhello.backgroundgeolocation.BuildConfig
+com/marianhello/bgloc/data/LocationTransform.java
+ com.marianhello.bgloc.data.LocationTransform
+com/marianhello/bgloc/data/DAOFactory.java
+ com.marianhello.bgloc.data.DAOFactory
+com/marianhello/logging/LogEntry.java
+ com.marianhello.logging.LogEntry
+com/tenforwardconsulting/bgloc/DistanceFilterLocationProvider.java
+ com.tenforwardconsulting.bgloc.DistanceFilterLocationProvider
+ com.tenforwardconsulting.bgloc.DistanceFilterLocationProvider$1
+ com.tenforwardconsulting.bgloc.DistanceFilterLocationProvider$2
+ com.tenforwardconsulting.bgloc.DistanceFilterLocationProvider$3
+ com.tenforwardconsulting.bgloc.DistanceFilterLocationProvider$4
+com/marianhello/bgloc/data/LocationDAO.java
+ com.marianhello.bgloc.data.LocationDAO
+com/marianhello/bgloc/sync/NotificationHelper.java
+ com.marianhello.bgloc.sync.NotificationHelper
+ com.marianhello.bgloc.sync.NotificationHelper$NotificationFactory
+com/marianhello/bgloc/headless/TaskRunnerFactory.java
+ com.marianhello.bgloc.headless.TaskRunnerFactory
+com/marianhello/bgloc/provider/AbstractLocationProvider.java
+ com.marianhello.bgloc.provider.AbstractLocationProvider
+com/marianhello/bgloc/ConnectivityListener.java
+ com.marianhello.bgloc.ConnectivityListener
+com/marianhello/bgloc/provider/RawLocationProvider.java
+ com.marianhello.bgloc.provider.RawLocationProvider
+com/marianhello/bgloc/service/LocationServiceImpl.java
+ com.marianhello.bgloc.service.LocationServiceImpl
+ com.marianhello.bgloc.service.LocationServiceImpl$1
+ com.marianhello.bgloc.service.LocationServiceImpl$2
+ com.marianhello.bgloc.service.LocationServiceImpl$3
+ com.marianhello.bgloc.service.LocationServiceImpl$4
+ com.marianhello.bgloc.service.LocationServiceImpl$5
+ com.marianhello.bgloc.service.LocationServiceImpl$6
+ com.marianhello.bgloc.service.LocationServiceImpl$7
+ com.marianhello.bgloc.service.LocationServiceImpl$8
+ com.marianhello.bgloc.service.LocationServiceImpl$9
+ com.marianhello.bgloc.service.LocationServiceImpl$LocalBinder
+ com.marianhello.bgloc.service.LocationServiceImpl$ServiceHandler

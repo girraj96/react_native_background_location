@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "@darron1217/react-native-background-geolocation@0.6.6",
+      "/Users/pavansharma/Desktop/background_location"
+    ]
+  ],
+  "_from": "@darron1217/react-native-background-geolocation@0.6.6",
+  "_id": "@darron1217/react-native-background-geolocation@0.6.6",
+  "_inBundle": false,
+  "_integrity": "sha512-IQHSg4ybq8qDdf4mNZPqvV5Z2vTBKp1ehuqrc2zDdtJr7ihLTsQMGjhiGZ0BLVL+pwdOKrp0Q/TP3lFVfpyRKA==",
+  "_location": "/@darron1217/react-native-background-geolocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@darron1217/react-native-background-geolocation@0.6.6",
+    "name": "@darron1217/react-native-background-geolocation",
+    "escapedName": "@darron1217%2freact-native-background-geolocation",
+    "scope": "@darron1217",
+    "rawSpec": "0.6.6",
+    "saveSpec": null,
+    "fetchSpec": "0.6.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@darron1217/react-native-background-geolocation/-/react-native-background-geolocation-0.6.6.tgz",
+  "_spec": "0.6.6",
+  "_where": "/Users/pavansharma/Desktop/background_location",
+  "author": {
+    "name": "Marian Hello"
+  },
+  "bugs": {
+    "url": "https://github.com/darron1217/react-native-background-geolocation/issues"
+  },
+  "dependencies": {
+    "plist": "^3.0.1"
+  },
+  "description": "optimized background location tracking",
+  "homepage": "https://github.com/darron1217/react-native-background-geolocation#readme",
+  "keywords": [
+    "gps",
+    "geolocation",
+    "position",
+    "location",
+    "tracking",
+    "background",
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "ios"
+  ],
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "maintainers": [
+    {
+      "name": "Darron Park",
+      "email": "darron1217@gmail.com"
+    }
+  ],
+  "name": "@darron1217/react-native-background-geolocation",
+  "peerDependencies": {
+    "react-native": ">=0.60.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darron1217/react-native-background-geolocation.git"
+  },
+  "scripts": {
+    "link": "@darron1217/react-native-background-geolocation/scripts/postlink.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unlink": "@darron1217/react-native-background-geolocation/scripts/postunlink.js"
+  },
+  "types": "./index.d.ts",
+  "version": "0.6.6"
+}

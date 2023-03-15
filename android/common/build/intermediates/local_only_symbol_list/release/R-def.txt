@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+mipmap ic_launcher
+string app_name
+string mauron85_bgloc_account_name
+string mauron85_bgloc_account_type
+string mauron85_bgloc_content_authority
+xml authenticator
+xml syncadapter

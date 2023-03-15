@@ -1,0 +1,161 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3       Licensed to the Apache Software Foundation (ASF) under one
+4       or more contributor license agreements.  See the NOTICE file
+5       distributed with this work for additional information
+6       regarding copyright ownership.  The ASF licenses this file
+7       to you under the Apache License, Version 2.0 (the
+8       "License"); you may not use this file except in compliance
+9       with the License.  You may obtain a copy of the License at
+10
+11         http://www.apache.org/licenses/LICENSE-2.0
+12
+13       Unless required by applicable law or agreed to in writing,
+14       software distributed under the License is distributed on an
+15       "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+16       KIND, either express or implied.  See the License for the
+17       specific language governing permissions and limitations
+18       under the License.
+19-->
+20<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+21    package="com.marianhello.bgloc.react"
+22    android:versionCode="1"
+23    android:versionName="1.0" >
+24
+25    <uses-sdk
+26        android:minSdkVersion="21"
+26-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml
+27        android:targetSdkVersion="33" />
+27-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml
+28
+29    <uses-permission android:name="android.hardware.location" />
+29-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:57:5-65
+29-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:57:22-62
+30    <uses-permission android:name="android.permission.INTERNET" />
+30-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:58:5-66
+30-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:58:22-64
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:59:5-68
+31-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:59:22-65
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:60:5-79
+32-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:60:22-76
+33    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+33-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:61:5-81
+33-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:61:22-78
+34    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+34-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:62:5-79
+34-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:62:22-76
+35    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+35-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:63:5-89
+35-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:63:22-86
+36    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+36-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:64:5-94
+36-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:64:22-91
+37    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+37-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:65:5-81
+37-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:65:22-78
+38    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+38-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:66:5-76
+38-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:66:22-74
+39    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+39-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:67:5-77
+39-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:67:22-75
+40    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+40-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:68:5-79
+40-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:68:22-77
+41    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+41-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:69:5-77
+41-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:69:22-74
+42
+43    <application>
+43-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:22:5-55:19
+44        <service
+44-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:23:9-32:19
+45            android:name="com.marianhello.bgloc.sync.SyncService"
+45-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:24:13-66
+46            android:exported="true"
+46-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:25:13-36
+47            android:process=":sync" >
+47-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:26:13-36
+48            <intent-filter>
+48-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:27:13-29:29
+49                <action android:name="android.content.SyncAdapter" />
+49-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:28:17-69
+49-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:28:25-67
+50            </intent-filter>
+51
+52            <meta-data
+52-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:30:13-31:54
+53                android:name="android.content.SyncAdapter"
+53-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:30:24-66
+54                android:resource="@xml/syncadapter" />
+54-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:31:17-52
+55        </service>
+56        <service
+56-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:33:9-42:19
+57            android:name="com.marianhello.bgloc.sync.AuthenticatorService"
+57-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:34:13-75
+58            android:exported="true" >
+58-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:35:13-36
+59            <intent-filter>
+59-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:36:13-38:29
+60                <action android:name="android.accounts.AccountAuthenticator" />
+60-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:37:17-79
+60-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:37:25-77
+61            </intent-filter>
+62
+63            <meta-data
+63-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:39:13-41:57
+64                android:name="android.accounts.AccountAuthenticator"
+64-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:40:17-69
+65                android:resource="@xml/authenticator" />
+65-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:41:17-54
+66        </service>
+67
+68        <provider
+68-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:43:9-47:38
+69            android:name="com.marianhello.bgloc.data.provider.LocationContentProvider"
+69-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:44:13-87
+70            android:authorities="@string/mauron85_bgloc_content_authority"
+70-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:45:13-75
+71            android:exported="false"
+71-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:46:13-37
+72            android:syncable="true" />
+72-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:47:13-36
+73
+74        <service
+74-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:48:9-133
+75            android:name="com.marianhello.bgloc.service.LocationServiceImpl"
+75-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:48:66-130
+76            android:enabled="true"
+76-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:48:18-40
+77            android:exported="false" />
+77-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:48:41-65
+78        <service
+78-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:49:9-136
+79            android:name="com.marianhello.bgloc.react.headless.HeadlessService"
+79-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:49:66-133
+80            android:enabled="true"
+80-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:49:18-40
+81            android:exported="false" />
+81-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:49:41-65
+82
+83        <receiver
+83-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:50:9-54:20
+84            android:name="com.marianhello.bgloc.BootCompletedReceiver"
+84-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:50:66-124
+85            android:enabled="true"
+85-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:50:19-41
+86            android:exported="true" >
+86-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:50:42-65
+87            <intent-filter>
+87-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:51:13-53:29
+88                <action android:name="android.intent.action.BOOT_COMPLETED" />
+88-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:52:17-79
+88-->/Users/girrajsharma/Desktop/Office/RoyoDispatch/node_modules/@darron1217/react-native-background-geolocation/android/lib/src/main/AndroidManifest.xml:52:25-76
+89            </intent-filter>
+90        </receiver>
+91    </application>
+92
+93</manifest>

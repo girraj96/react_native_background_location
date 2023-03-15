@@ -1,0 +1,30 @@
+com/marianhello/bgloc/react/BackgroundGeolocationPackage.java
+ com.marianhello.bgloc.react.BackgroundGeolocationPackage
+com/marianhello/bgloc/react/BackgroundGeolocationModule.java
+ com.marianhello.bgloc.react.BackgroundGeolocationModule
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$1
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$2
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$3
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$4
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$5
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$6
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$7
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$8
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$9
+ com.marianhello.bgloc.react.BackgroundGeolocationModule$ErrorMap
+com/iodine/start/MapUtil.java
+ com.iodine.start.MapUtil
+ com.iodine.start.MapUtil$1
+com/marianhello/bgloc/react/ConfigMapper.java
+ com.marianhello.bgloc.react.ConfigMapper
+com/marianhello/bgloc/react/BuildConfig.java
+ com.marianhello.bgloc.react.BuildConfig
+com/iodine/start/ArrayUtil.java
+ com.iodine.start.ArrayUtil
+ com.iodine.start.ArrayUtil$1
+com/marianhello/bgloc/react/headless/HeadlessTaskRunner.java
+ com.marianhello.bgloc.react.headless.HeadlessTaskRunner
+com/marianhello/bgloc/react/headless/HeadlessService.java
+ com.marianhello.bgloc.react.headless.HeadlessService
+com/marianhello/bgloc/react/data/LocationMapper.java
+ com.marianhello.bgloc.react.data.LocationMapper
