@@ -60,13 +60,13 @@
       "email": "darron1217@gmail.com"
     }
   ],
-  "name": "@darron1217/react-native-background-geolocation",
+  "name": "@girraj96/react-native-background-geolocation",
   "peerDependencies": {
     "react-native": ">=0.60.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darron1217/react-native-background-geolocation.git"
+    "url": "https://github.com/girraj96/react_native_background_location.git"
   },
   "scripts": {
     "link": "@darron1217/react-native-background-geolocation/scripts/postlink.js",
